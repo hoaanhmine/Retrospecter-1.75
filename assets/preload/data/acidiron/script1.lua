@@ -106,21 +106,6 @@ function onCreate()
 	end
 end
 
-function onCountdownStarted()
-	for i=0,3 do
-		local ri = i
-		_G['defaultStrum'..i..'X'] = _G["defaultOpponentStrumX"..ri]
-		_G['defaultStrum'..i..'Y'] = _G["defaultOpponentStrumY"..ri]
-	end
-	for i=4,7 do
-		local ri = i-4
-		_G['defaultStrum'..i..'X'] = _G["defaultPlayerStrumX"..ri]
-		_G['defaultStrum'..i..'Y'] = _G["defaultPlayerStrumY"..ri]
-	end
-
-	start()
-end
-
 local isDead = false
 
 function onGameOver()
