@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nieve.png">
+<SubTexture name="kamtro0000" x="0" y="0" width="424" height="341" frameX="-685" frameY="-372" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kamtro0001" x="0" y="341" width="941" height="398" frameX="-517" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kamtro0002" x="0" y="739" width="872" height="382" frameX="-578" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kamtro0003" x="0" y="1121" width="948" height="379" frameX="-465" frameY="-376" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,22 +1,41 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "sakuroma",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "saku",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"menu_saku",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fuzzy-feeling",
+			"sakuroma",
+			[
+				255,
+				73,
+				253
+			]
+		],
+		[
+			"heartmelter",
+			"sakuroma",
+			[
+				255,
+				73,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

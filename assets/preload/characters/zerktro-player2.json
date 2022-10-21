@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Zerktro Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-34
+			],
+			"loop": true,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Zerktro Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-30
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Zerktro MISS Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-81
+			],
+			"loop": true,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Zerktro Down0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				92
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Zerktro Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				93
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Zerktro Miss Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				112,
+				16
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Zerktro Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-28
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Zerktro MISS Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-71
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Zerktro MISS Dow",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zerktro_Player",
+	"position": [
+		-406,
+		-168
+	],
+	"healthicon": "zerktro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		240
+	],
+	"camera_position": [
+		340,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

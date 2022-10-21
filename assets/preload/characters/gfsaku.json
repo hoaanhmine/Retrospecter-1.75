@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gfsaku",
+	"position": [
+		670,
+		-430
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		-250,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="maku_death_anims.png">
+<SubTexture name="Maku Dies0000" x="1992" y="361" width="265" height="360" frameX="-344" frameY="-100" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0001" x="1992" y="721" width="265" height="360" frameX="-344" frameY="-100" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0002" x="285" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0003" x="550" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0004" x="550" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0005" x="815" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0006" x="1080" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0007" x="1080" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0008" x="1080" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0009" x="1080" y="1506" width="265" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0010" x="1345" y="1506" width="266" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0011" x="1345" y="1506" width="266" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0012" x="1611" y="1506" width="273" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0013" x="1611" y="1506" width="273" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0014" x="1611" y="1506" width="273" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0015" x="1992" y="0" width="276" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0016" x="1992" y="0" width="276" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0017" x="1992" y="0" width="276" height="361" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0018" x="0" y="1506" width="285" height="372" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0019" x="0" y="1506" width="285" height="372" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0020" x="0" y="1506" width="285" height="372" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="idle0000" x="1660" y="1125" width="315" height="373" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0021" x="1660" y="1125" width="315" height="373" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0022" x="332" y="0" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0023" x="664" y="0" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0024" x="0" y="381" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0025" x="332" y="381" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0026" x="664" y="381" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0027" x="996" y="0" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0028" x="996" y="375" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies0029" x="0" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0000" x="332" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0001" x="664" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0002" x="664" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0003" x="996" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0004" x="996" y="756" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0005" x="1328" y="0" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0006" x="1328" y="0" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0007" x="1328" y="375" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0008" x="1328" y="750" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0009" x="1328" y="750" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Idle0010" x="1328" y="750" width="332" height="375" frameX="-344" frameY="-99" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0000" x="0" y="1131" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0001" x="332" y="1131" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0002" x="0" y="0" width="332" height="381" frameX="-344" frameY="-97" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0003" x="664" y="1131" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0004" x="996" y="1131" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0005" x="1328" y="1131" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0006" x="1660" y="0" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0007" x="1660" y="375" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Maku Dies Confirm0008" x="1660" y="750" width="332" height="375" frameX="-344" frameY="-103" frameWidth="1020" frameHeight="574" />
+</TextureAtlas>

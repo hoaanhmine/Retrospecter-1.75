@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rigth.png">
+<SubTexture name="rigth rigth0000" x="799" y="0" width="796" height="763" frameX="-56" frameY="-68" frameWidth="900" frameHeight="900" />
+<SubTexture name="rigth rigth0001" x="0" y="768" width="797" height="763" frameX="-57" frameY="-68" frameWidth="900" frameHeight="900" />
+<SubTexture name="rigth rigth0002" x="0" y="0" width="799" height="768" frameX="-55" frameY="-68" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

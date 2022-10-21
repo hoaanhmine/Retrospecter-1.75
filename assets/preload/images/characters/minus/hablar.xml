@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hablar.png">
+<SubTexture name="hablar idle0000" x="1814" y="1849" width="456" height="611" frameX="-153" frameY="-175" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0001" x="1814" y="1849" width="456" height="611" frameX="-153" frameY="-175" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0002" x="2608" y="1222" width="450" height="610" frameX="-158" frameY="-176" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0003" x="2608" y="1222" width="450" height="610" frameX="-158" frameY="-176" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0004" x="2155" y="0" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0005" x="2155" y="612" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0006" x="1690" y="0" width="465" height="615" frameX="-147" frameY="-171" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0007" x="1690" y="615" width="465" height="615" frameX="-147" frameY="-171" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0008" x="463" y="1234" width="463" height="614" frameX="-149" frameY="-172" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0009" x="0" y="1234" width="463" height="615" frameX="-149" frameY="-171" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0010" x="0" y="1849" width="455" height="612" frameX="-154" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0011" x="0" y="1849" width="455" height="612" frameX="-154" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0012" x="2155" y="1224" width="450" height="612" frameX="-156" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0013" x="2155" y="1224" width="450" height="612" frameX="-156" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0014" x="455" y="1849" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0015" x="455" y="1849" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0016" x="908" y="1849" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0017" x="908" y="1849" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0018" x="1361" y="1849" width="453" height="612" frameX="-153" frameY="-174" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0019" x="2608" y="0" width="458" height="611" frameX="-153" frameY="-175" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0020" x="2608" y="611" width="458" height="611" frameX="-153" frameY="-175" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0021" x="0" y="0" width="565" height="618" frameX="-237" frameY="-164" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0022" x="565" y="0" width="565" height="618" frameX="-237" frameY="-164" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0023" x="926" y="1234" width="564" height="613" frameX="-221" frameY="-169" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0024" x="1490" y="1234" width="564" height="613" frameX="-221" frameY="-169" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0025" x="1130" y="0" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0026" x="0" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0027" x="0" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0028" x="560" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0029" x="560" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0030" x="1120" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+<SubTexture name="hablar idle0031" x="1120" y="618" width="560" height="616" frameX="-225" frameY="-166" frameWidth="950" frameHeight="950" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boiu.png">
+<SubTexture name="rocks0000" x="0" y="845" width="882" height="845" frameX="-11" frameY="-27" frameWidth="900" frameHeight="900" />
+<SubTexture name="rocks0001" x="881" y="0" width="881" height="845" frameX="-12" frameY="-27" frameWidth="900" frameHeight="900" />
+<SubTexture name="rocks0002" x="0" y="0" width="881" height="845" frameX="-12" frameY="-27" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sweatro_Assets.png">
+<SubTexture name="Minus Retro Sweat Down Note0000" x="835" y="3895" width="842" height="737" frameX="0" frameY="-4" frameWidth="842" frameHeight="743" />
+<SubTexture name="Minus Retro Sweat Down Note0001" x="0" y="3895" width="835" height="740" frameX="-3" frameY="-3" frameWidth="842" frameHeight="743" />
+<SubTexture name="Minus Retro Sweat Down Note0002" x="2719" y="2987" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743" />
+<SubTexture name="Minus Retro Sweat Down Note0003" x="4322" y="0" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743" />
+<SubTexture name="Minus Retro Sweat Idle0000" x="1343" y="2987" width="688" height="894" frameX="-1" frameY="-11" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0001" x="2031" y="2987" width="688" height="894" frameX="0" frameY="-12" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0002" x="667" y="2987" width="676" height="901" frameX="-10" frameY="-7" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0003" x="3372" y="1840" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0004" x="1732" y="1031" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0005" x="0" y="2987" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Idle0006" x="1732" y="1031" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908" />
+<SubTexture name="Minus Retro Sweat Left Note0000" x="895" y="2038" width="1022" height="922" frameX="0" frameY="0" frameWidth="1022" frameHeight="922" />
+<SubTexture name="Minus Retro Sweat Left Note0001" x="1917" y="2038" width="985" height="921" frameX="-35" frameY="-1" frameWidth="1022" frameHeight="922" />
+<SubTexture name="Minus Retro Sweat Left Note0002" x="3372" y="0" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922" />
+<SubTexture name="Minus Retro Sweat Left Note0003" x="3372" y="920" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922" />
+<SubTexture name="Minus Retro Sweat Right Note0000" x="836" y="1031" width="896" height="959" frameX="-28" frameY="0" frameWidth="924" frameHeight="960" />
+<SubTexture name="Minus Retro Sweat Right Note0001" x="2477" y="0" width="895" height="955" frameX="-14" frameY="-5" frameWidth="924" frameHeight="960" />
+<SubTexture name="Minus Retro Sweat Right Note0002" x="2477" y="955" width="895" height="949" frameX="0" frameY="-10" frameWidth="924" frameHeight="960" />
+<SubTexture name="Minus Retro Sweat Right Note0003" x="0" y="2038" width="895" height="949" frameX="0" frameY="-10" frameWidth="924" frameHeight="960" />
+<SubTexture name="Minus Retro Sweat Up Note0000" x="0" y="0" width="819" height="1031" frameX="0" frameY="0" frameWidth="836" frameHeight="1031" />
+<SubTexture name="Minus Retro Sweat Up Note0001" x="819" y="0" width="822" height="1018" frameX="0" frameY="-12" frameWidth="836" frameHeight="1031" />
+<SubTexture name="Minus Retro Sweat Up Note0002" x="1641" y="0" width="836" height="1007" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031" />
+<SubTexture name="Minus Retro Sweat Up Note0003" x="0" y="1031" width="836" height="1007" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031" />
+</TextureAtlas>

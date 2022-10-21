@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "Enough",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sd",
+			"fps": 18,
+			"name": "Enough",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/basta",
+	"position": [
+		290,
+		-410
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		-130,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

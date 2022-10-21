@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Zerktro Idle"
+		},
+		{
+			"offsets": [
+				5,
+				-29
+			],
+			"loop": true,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Zerktro Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-96,
+				-90
+			],
+			"loop": true,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Zerktro Down0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				101
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Zerktro Up0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-76,
+				28
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Zerktro Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zerk",
+	"position": [
+		-156,
+		-268
+	],
+	"healthicon": "zerktro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		140,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"parents-christmas",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"satisflatter",
+			"sakuroma",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"satisfracture-remix",
+			"retro-minus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ectogasm",
+			"zerktro",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"scalie-feeling",
+			"sakuroma",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"fuzziest-feeling",
+			"sakuroma",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

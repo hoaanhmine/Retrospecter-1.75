@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="basta.png">
+<SubTexture name="Enough0000" x="0" y="0" width="466" height="865" frameX="-2" frameY="-1" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0001" x="466" y="0" width="466" height="865" frameX="0" frameY="-1" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0002" x="932" y="0" width="459" height="865" frameX="-5" frameY="-1" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0003" x="1391" y="0" width="459" height="862" frameX="-5" frameY="-4" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0004" x="0" y="865" width="460" height="862" frameX="-3" frameY="-4" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0005" x="460" y="865" width="460" height="861" frameX="-3" frameY="-5" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0006" x="920" y="865" width="460" height="860" frameX="-3" frameY="-6" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0007" x="920" y="865" width="460" height="860" frameX="-3" frameY="-6" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0008" x="1380" y="865" width="460" height="860" frameX="-3" frameY="-6" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0009" x="2310" y="0" width="461" height="858" frameX="-3" frameY="-8" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0010" x="2310" y="858" width="460" height="858" frameX="-3" frameY="-8" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0011" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0012" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0013" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0014" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0015" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0016" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0017" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0018" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0019" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0020" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+<SubTexture name="Enough0021" x="1850" y="0" width="460" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866" />
+</TextureAtlas>

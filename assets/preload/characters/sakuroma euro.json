@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "encouragexd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "elpepe",
+			"fps": 24,
+			"name": "encourage",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sakuroma/cou",
+	"position": [
+		-270,
+		-190
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		-330,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

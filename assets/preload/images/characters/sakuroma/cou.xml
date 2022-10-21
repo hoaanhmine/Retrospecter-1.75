@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Saku_Encourage.png">
+<SubTexture name="encouragexd0000" x="0" y="1044" width="485" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+
+<SubTexture name="encourage0000" x="0" y="1044" width="485" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0001" x="0" y="1044" width="485" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0002" x="485" y="1044" width="485" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0003" x="970" y="1044" width="522" height="520" frameX="-251" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0004" x="1943" y="2084" width="522" height="519" frameX="-251" frameY="-29" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0005" x="1943" y="2084" width="522" height="519" frameX="-251" frameY="-29" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0006" x="1492" y="1044" width="531" height="520" frameX="-244" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0007" x="1492" y="1044" width="531" height="520" frameX="-244" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0008" x="1028" y="0" width="531" height="521" frameX="-244" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0009" x="0" y="523" width="529" height="521" frameX="-245" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0010" x="0" y="1564" width="529" height="520" frameX="-245" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0011" x="529" y="1564" width="527" height="520" frameX="-247" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0012" x="1056" y="1564" width="527" height="520" frameX="-247" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0013" x="2090" y="0" width="527" height="520" frameX="-247" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0014" x="2090" y="0" width="527" height="520" frameX="-247" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0015" x="2090" y="520" width="527" height="520" frameX="-247" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0016" x="529" y="523" width="531" height="521" frameX="-244" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0017" x="529" y="523" width="531" height="521" frameX="-244" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0018" x="1559" y="0" width="531" height="521" frameX="-244" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0019" x="1559" y="521" width="514" height="521" frameX="-257" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0020" x="514" y="0" width="514" height="522" frameX="-257" frameY="-26" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0021" x="0" y="0" width="514" height="523" frameX="-257" frameY="-24" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0022" x="1060" y="523" width="482" height="521" frameX="-281" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0023" x="1060" y="523" width="482" height="521" frameX="-281" frameY="-27" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0024" x="2090" y="1040" width="482" height="520" frameX="-281" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0025" x="2090" y="1560" width="484" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0026" x="1583" y="1564" width="484" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0027" x="0" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0028" x="0" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0029" x="0" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0030" x="486" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0031" x="972" y="2084" width="485" height="520" frameX="-279" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0032" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0033" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0034" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0035" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0036" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0037" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0038" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0039" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0040" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0041" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0042" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+<SubTexture name="encourage0043" x="1457" y="2084" width="486" height="520" frameX="-278" frameY="-28" frameWidth="1020" frameHeight="574" />
+</TextureAtlas>

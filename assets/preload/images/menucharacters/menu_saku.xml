@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_saku.png">
+<SubTexture name="saku idle.png0000" x="3104" y="0" width="816" height="956" frameX="-103" frameY="-31" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0001" x="3104" y="956" width="805" height="948" frameX="-109" frameY="-39" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0002" x="980" y="1971" width="805" height="963" frameX="-109" frameY="-24" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0003" x="1785" y="1971" width="980" height="963" frameX="-26" frameY="-24" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0004" x="0" y="1971" width="980" height="974" frameX="-26" frameY="-13" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0005" x="2078" y="0" width="1026" height="982" frameX="-6" frameY="-5" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0006" x="0" y="0" width="1039" height="987" frameX="0" frameY="0" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0007" x="1039" y="0" width="1039" height="987" frameX="0" frameY="0" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0008" x="0" y="987" width="1010" height="984" frameX="-14" frameY="-3" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0009" x="1010" y="987" width="1010" height="984" frameX="-14" frameY="-3" frameWidth="1039" frameHeight="987" />
+<SubTexture name="saku idle.png0010" x="2078" y="982" width="984" height="981" frameX="-28" frameY="-6" frameWidth="1039" frameHeight="987" />
+</TextureAtlas>

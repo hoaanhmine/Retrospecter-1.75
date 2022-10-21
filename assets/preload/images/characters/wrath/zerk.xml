@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WrathRetroSpecter_2.png">
+<SubTexture name="do0000" x="1631" y="1581" width="833" height="684" frameX="-154" frameY="-314" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="do0001" x="0" y="1581" width="818" height="688" frameX="-162" frameY="-313" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="le0000" x="831" y="2269" width="839" height="657" frameX="-105" frameY="-293" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="le0001" x="0" y="2269" width="831" height="664" frameX="-110" frameY="-286" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="idle0000" x="1745" y="0" width="824" height="711" frameX="-142" frameY="-194" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="idle0001" x="2569" y="683" width="815" height="677" frameX="-134" frameY="-227" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="idle0002" x="2569" y="0" width="818" height="683" frameX="-134" frameY="-221" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="idle0003" x="818" y="1581" width="813" height="686" frameX="-142" frameY="-219" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="idle0004" x="1745" y="711" width="823" height="703" frameX="-141" frameY="-202" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="ri0000" x="825" y="840" width="828" height="738" frameX="-136" frameY="-182" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="ri0001" x="0" y="840" width="825" height="741" frameX="-136" frameY="-179" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="up0000" x="0" y="0" width="868" height="840" frameX="-101" frameY="-99" frameWidth="1100" frameHeight="1100" />
+<SubTexture name="up0001" x="868" y="0" width="877" height="837" frameX="-94" frameY="-102" frameWidth="1100" frameHeight="1100" />
+</TextureAtlas>

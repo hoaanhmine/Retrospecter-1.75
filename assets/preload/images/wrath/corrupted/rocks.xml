@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rocks.png">
+<SubTexture name="rocks idle0000" x="0" y="0" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0001" x="552" y="0" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0002" x="0" y="505" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0003" x="552" y="505" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0004" x="1104" y="0" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0005" x="1104" y="505" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0006" x="1104" y="505" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="rocks idle0007" x="1104" y="505" width="552" height="505" frameX="-236" frameY="-34" frameWidth="1020" frameHeight="574" />
+</TextureAtlas>

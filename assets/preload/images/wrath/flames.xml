@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flames_colorchange.png">
+<SubTexture name="flames_colorchange idle0000" x="0" y="962" width="1000" height="469" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+<SubTexture name="flames_colorchange idle0001" x="1000" y="962" width="1000" height="464" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+<SubTexture name="flames_colorchange idle0002" x="1000" y="474" width="1000" height="472" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+<SubTexture name="flames_colorchange idle0003" x="0" y="482" width="1000" height="480" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+<SubTexture name="flames_colorchange idle0004" x="0" y="0" width="1000" height="482" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+<SubTexture name="flames_colorchange idle0005" x="1000" y="0" width="1000" height="474" frameX="0" frameY="0" frameWidth="1000" frameHeight="482" />
+</TextureAtlas>

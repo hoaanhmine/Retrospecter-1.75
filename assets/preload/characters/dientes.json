@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				65,
+				-41
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "dientes idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "dientes idle"
+		},
+		{
+			"offsets": [
+				141,
+				11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "dientes idle"
+		},
+		{
+			"offsets": [
+				-31,
+				19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				13,
+				14,
+				15,
+				16
+			],
+			"name": "dientes idle"
+		},
+		{
+			"offsets": [
+				56,
+				76
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "dientes idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/dientes",
+	"position": [
+		100,
+		-140
+	],
+	"healthicon": "retro-minus",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

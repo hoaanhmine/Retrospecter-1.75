@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "hablar idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "sd",
+			"indices": [],
+			"name": "hablar idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/hablar",
+	"position": [
+		410,
+		-80
+	],
+	"healthicon": "retro-minus",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		-180,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

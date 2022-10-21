@@ -1,48 +1,41 @@
 {
-	"songs": [
-		[
-			"Ugh",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Guns",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Stress",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		]
-	],
+	"storyName": "Your New Week",
+	"difficulties": "hard",
 	"hideFreeplay": false,
-	"weekBackground": "tank",
-	"weekCharacters": [
-		"tankman",
-		"bf",
-		"gf"
-	],
-	"storyName": "Tankman",
-	"weekName": "Week 7",
+	"weekBackground": "stage",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "week6",
-	"startUnlocked": true
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"septuple-trouble",
+			"triple",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"last-reel",
+			"zerktro",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

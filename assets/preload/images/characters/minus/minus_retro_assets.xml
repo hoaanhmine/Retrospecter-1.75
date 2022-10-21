@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minus_retro_assets.png">
+<SubTexture name="Minus Retro Idle0000" x="0" y="0" width="366" height="476" frameX="-327" frameY="-52" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Idle0001" x="366" y="0" width="367" height="476" frameX="-326" frameY="-52" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Idle0002" x="733" y="0" width="360" height="480" frameX="-332" frameY="-49" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Idle0003" x="1093" y="0" width="356" height="484" frameX="-335" frameY="-45" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Idle0004" x="0" y="484" width="356" height="484" frameX="-335" frameY="-45" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Idle0005" x="0" y="484" width="356" height="484" frameX="-335" frameY="-45" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Down Note0000" x="356" y="484" width="448" height="393" frameX="-286" frameY="-91" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Down Note0001" x="804" y="484" width="445" height="395" frameX="-287" frameY="-90" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Down Note0002" x="1249" y="484" width="441" height="396" frameX="-289" frameY="-89" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Down Note0003" x="0" y="968" width="441" height="396" frameX="-289" frameY="-89" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Down Note0004" x="0" y="968" width="441" height="396" frameX="-289" frameY="-89" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0000" x="441" y="968" width="436" height="549" frameX="-287" frameY="-12" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0001" x="877" y="968" width="438" height="542" frameX="-287" frameY="-19" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0002" x="1315" y="968" width="445" height="537" frameX="-287" frameY="-24" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0003" x="0" y="1517" width="445" height="537" frameX="-287" frameY="-24" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0004" x="0" y="1517" width="445" height="537" frameX="-287" frameY="-24" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Up Note0005" x="0" y="1517" width="445" height="537" frameX="-287" frameY="-24" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0000" x="445" y="1517" width="544" height="491" frameX="-238" frameY="-41" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0001" x="989" y="1517" width="524" height="490" frameX="-257" frameY="-42" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0002" x="1513" y="1517" width="506" height="489" frameX="-274" frameY="-43" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0003" x="0" y="2054" width="506" height="489" frameX="-274" frameY="-43" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0004" x="0" y="2054" width="506" height="489" frameX="-274" frameY="-43" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Left Note0005" x="0" y="2054" width="506" height="489" frameX="-274" frameY="-43" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0000" x="506" y="2054" width="477" height="511" frameX="-279" frameY="-31" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0001" x="983" y="2054" width="476" height="508" frameX="-272" frameY="-34" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0002" x="1459" y="2054" width="476" height="505" frameX="-264" frameY="-37" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0003" x="0" y="2565" width="476" height="505" frameX="-264" frameY="-37" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0004" x="0" y="2565" width="476" height="505" frameX="-264" frameY="-37" frameWidth="1020" frameHeight="574" />
+<SubTexture name="Minus Retro Right Note0005" x="0" y="2565" width="476" height="505" frameX="-264" frameY="-37" frameWidth="1020" frameHeight="574" />
+</TextureAtlas>

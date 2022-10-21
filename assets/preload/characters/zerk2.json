@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				9
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ri"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-69,
+				34
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "do"
+		},
+		{
+			"offsets": [
+				-55,
+				39
+			],
+			"loop": true,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				35
+			],
+			"loop": true,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "le",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-95,
+				8
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "sd",
+			"loop": true,
+			"name": "ri"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wrath/Zerk",
+	"position": [
+		-156,
+		-268
+	],
+	"healthicon": "zerktro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

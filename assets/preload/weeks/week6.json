@@ -1,22 +1,70 @@
 {
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "corru",
+	"loadingScreens": [
+		"Postgame:minus/postgame",
+		"Mompoms:minus/mompoms",
+		"Brawnstorm:extras/brawnstorm",
+		"Icebreaker:extras/icebreaker",
+		"Corruptro:story/corruptro"
 	],
-
-	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"songColors": [],
+	"songs": [
+		[
+			"Icebreaker",
+			"win-iceolation",
+			[
+				186,
+				226,
+				255
+			]
+		],
+		[
+			"Postgame",
+			"duo",
+			[
+				136,
+				135,
+				168
+			]
+		],
+		[
+			"Mompoms",
+			"sakuroma",
+			[
+				248,
+				54,
+				107
+			]
+		],
+		[
+			"Brawnstorm",
+			"retro",
+			[
+				23,
+				216,
+				228
+			]
+		],
+		[
+			"Corruptro",
+			"corruptro",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"corru",
+		"",
+		""
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Extras"
 }

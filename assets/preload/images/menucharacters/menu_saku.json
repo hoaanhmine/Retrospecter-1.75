@@ -1,0 +1,11 @@
+{
+	"idle_anim": "",
+	"confirm_anim": "saku idle",
+	"position": [
+		-379,
+		14
+	],
+	"scale": 1.1,
+	"flipX": true,
+	"image": "Menu_saku"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Corruptro_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Corruptro_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Corruptro_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Corruptro_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CorruptroLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptro/Corruptro_Assets",
+	"position": [
+		-186,
+		-108
+	],
+	"healthicon": "corruptro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		60,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 2.4
+}

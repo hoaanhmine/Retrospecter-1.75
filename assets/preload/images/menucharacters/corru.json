@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Corruptro_Idle",
+	"idle_anim": "",
+	"position": [
+		-47,
+		-16
+	],
+	"scale": 1.1,
+	"image": "Menu_corru",
+	"flipX": false
+}

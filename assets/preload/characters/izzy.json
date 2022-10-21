@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ri",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				38,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "do",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-32,
+				2
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "le",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/izzy",
+	"position": [
+		-866,
+		-88
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		196,
+		-2147483648
+	],
+	"camera_position": [
+		290,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

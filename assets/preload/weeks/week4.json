@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "ipu",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "metro",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"minus",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"preseason",
+			"retro-minus",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"sigma",
+			"retro-minus",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"acidiron",
+			"retro-minus",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"preppy",
+			"sakuroma",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"overtime",
+			"duo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

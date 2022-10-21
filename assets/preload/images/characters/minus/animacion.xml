@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sweatro_Assets.png">
+<SubTexture name="Minus Retro Sweat Grunt0000" x="0" y="0" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0001" x="0" y="0" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0002" x="663" y="0" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0003" x="663" y="0" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0004" x="0" y="899" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0005" x="0" y="899" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0006" x="671" y="899" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0007" x="671" y="899" width="671" height="899" frameX="0" frameY="0" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0008" x="0" y="1798" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899" />
+<SubTexture name="Minus Retro Sweat Grunt0009" x="0" y="1798" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899" />
+</TextureAtlas>

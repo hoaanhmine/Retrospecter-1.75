@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nieve2.png">
+<SubTexture name="TARBO :D0000" x="0" y="0" width="1920" height="739" frameX="0" frameY="-170" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TARBO :D0001" x="0" y="739" width="1920" height="735" frameX="0" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TARBO :D0002" x="0" y="1474" width="1920" height="744" frameX="0" frameY="-168" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TARBO :D0003" x="0" y="2218" width="1920" height="744" frameX="0" frameY="-168" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

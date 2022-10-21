@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Minus Retro Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-39
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Minus Retro Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				22
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Minus Retro Left Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				79
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Minus Retro Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				19
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Minus Retro Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/minus_retro_assets",
+	"position": [
+		240,
+		120
+	],
+	"healthicon": "retro-minus",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

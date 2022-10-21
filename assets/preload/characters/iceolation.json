@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Iceolation Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-143,
+				-172
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Iceolation Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Iceolation Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-182,
+				-65
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Iceolation Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				-43
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Iceolation Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "iceolation/Iceolation",
+	"position": [
+		-406,
+		-108
+	],
+	"healthicon": "win-iceolation",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		179,
+		198
+	],
+	"camera_position": [
+		80,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

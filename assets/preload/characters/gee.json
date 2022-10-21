@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "Giglee",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sd",
+			"fps": 26,
+			"name": "Giglee",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sakuroma/sakuroma giglee",
+	"position": [
+		-160,
+		-200
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		0
+	],
+	"camera_position": [
+		-330,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}
