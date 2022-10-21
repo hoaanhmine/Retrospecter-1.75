@@ -1,24 +1,3 @@
-local confettiTimes = { 145, 146, 147, 148, 149, 150, 178, 179, 180, 181, 182, 183, 275, 276, 277, 278, 279, 280 }
-local thrownBig = false
-
-local danced = false
-
--- CONSTANTS
-local HIDDEN = 0.0000000001
-
--- UTILS
-function set(key, val)
-	setProperty(key, val)
-end
-function get(key)
-	return getProperty(key)
-end
-function addRel(key, val)
-	setProperty(key, getProperty(key) + val)
-end
-
-local allowCountDown = false
-
 local offsets = {
 	['danceLeft'] = {0, 0},
 	['danceRight'] = {0, 0},
